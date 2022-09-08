@@ -10,7 +10,8 @@ Screenshot of webpage
 
 
 ## Repo and Deployed Links
-https://github.com/hoffh-5334/homework-01-code-refactor
+Repository link: https://github.com/hoffh-5334/homework-01-code-refactor
+Deployed link: https://hoffh-5334.github.io/homework-01-code-refactor/
 
 
 
