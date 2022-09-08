@@ -1,11 +1,11 @@
-# <01-code-refactor>
+# 01-code-refactor
 
 ## Description
 
-This project helped create a more accessible webpage and added more search engine optimization by minimizing <div> tags and changing them to semantic html tags. 
+This project helped create a more accessible webpage and added more search engine optimization by minimizing non-semantic tags and changing them to semantic html tags. 
 
 ## Usage
-md
+Screenshot of webpage
     ![website picture](assets/images/01-code-refactor.png)
 
 
